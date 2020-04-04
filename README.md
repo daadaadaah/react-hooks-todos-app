@@ -1,6 +1,13 @@
-## Usage
+## MyReactHooks
+MyReactHooks 는 ReactHooks 이해 : [ReactHooks 이해](https://www.youtube.com/playlist?list=PLAHa1zfLtLiMukrBDWr-o0q-At7oARwXv)
+ 영상을 공부하면서 정리한 Repo 입니다.
 
-ReactHooks 이해 : [Youtube lecture](https://www.youtube.com/playlist?list=PLAHa1zfLtLiMukrBDWr-o0q-At7oARwXv)
+## React 란?
+
+## React 가 왜 나왔나?
+
+
+ReactHooks 이해 : [ReactHooks 이해](https://www.youtube.com/playlist?list=PLAHa1zfLtLiMukrBDWr-o0q-At7oARwXv)
 
 Todo application using React Hooks API(16.8+)
 
