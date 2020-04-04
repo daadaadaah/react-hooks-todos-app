@@ -2,9 +2,17 @@
 MyReactHooks 는 [ReactHooks 이해](https://www.youtube.com/playlist?list=PLAHa1zfLtLiMukrBDWr-o0q-At7oARwXv)
  영상을 공부하면서 정리한 Repo 입니다.
 
+### Gain points
+
+```
+1. Sample of context-api with `react-hook` (`useContext`).
+```
+
+
+
 ## Usage
 
-```shell
+```
 npm install
 npm start
 ```
