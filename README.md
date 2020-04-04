@@ -32,4 +32,4 @@ Open [http://localhost:3000]
 [ReactHooks 이해](https://www.youtube.com/playlist?list=PLAHa1zfLtLiMukrBDWr-o0q-At7oARwXv)
 
 ------
-# This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+/# This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
