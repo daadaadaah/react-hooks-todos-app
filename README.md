@@ -1,6 +1,8 @@
 ## MyReactHooks
-MyReactHooks 는 [ReactHooks 이해](https://www.youtube.com/playlist?list=PLAHa1zfLtLiMukrBDWr-o0q-At7oARwXv)
- 영상을 공부하면서 정리한 Repo 입니다.
+MyReactHooks 는 ReactHooks를 공부하면서 정리한 Repo 입니다.
+
+
+
 
 ## Usage
 
@@ -26,8 +28,8 @@ Open [http://localhost:3000]
 
 
 -----
-## YouTube lecture
-[Youtube lecture](https://www.youtube.com/playlist?list=PLAHa1zfLtLiMukrBDWr-o0q-At7oARwXv)
+## Reference
+[ReactHooks 이해](https://www.youtube.com/playlist?list=PLAHa1zfLtLiMukrBDWr-o0q-At7oARwXv)
 
 ------
-\# This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
